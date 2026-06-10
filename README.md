@@ -17,7 +17,7 @@ explicit, testable, and runnable?
 | [Pulsar](https://github.com/hadamrd/pulsar) | A distributed object plane for Git, designed around log-structured, deterministically named parts. |
 | [AdaptiQ](https://github.com/hadamrd/getadaptiq) | An AI-powered adaptive learning platform with generated practice, mastery tracking, and spaced repetition. |
 | [Retrobot](https://github.com/hadamrd/retrobot) | A modular event-driven automation system built around protocol decoding, state management, and workflow orchestration. |
-| [Retrobot](https://github.com/hadamrd/confirmi) | AI WhatsApp COD order confirmation for Moroccan e-commerce. |
+| [Confirmi](https://github.com/hadamrd/confirmi) | AI WhatsApp COD order confirmation for Moroccan e-commerce. |
 
 ## Current Themes
 
